@@ -10,3 +10,6 @@ Impliment Genetic Algorithm using java
 2. Improve efficency 
 3. Test
 4. Connect with K-Means for better solutions
+
+##Licence##
+Apache2
